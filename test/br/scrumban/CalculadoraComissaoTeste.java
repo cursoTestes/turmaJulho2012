@@ -15,6 +15,7 @@ public class CalculadoraComissaoTeste {
 		
 		double comissaoAtual= calculadoraComissao.calcularComissao(valorVenda);
 		assertEquals(comissaoEsperada, comissaoAtual, 0);
+		
 	}
 
 	@Test
