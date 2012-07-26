@@ -73,7 +73,7 @@
 
 			<batchtest todir="report">
 				<fileset dir="test">
-					<include name="**/*Test.java"/>
+					<include name="**/*Teste.java"/>
 				</fileset>
 			</batchtest>
 		</junit>
